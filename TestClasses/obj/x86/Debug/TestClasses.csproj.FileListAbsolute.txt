@@ -1,0 +1,5 @@
+G:\VSProjects\Citrine\TestClasses\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\VSProjects\Citrine\TestClasses\bin\Debug\TestClasses.dll
+G:\VSProjects\Citrine\TestClasses\bin\Debug\TestClasses.pdb
+G:\VSProjects\Citrine\TestClasses\obj\x86\Debug\TestClasses.dll
+G:\VSProjects\Citrine\TestClasses\obj\x86\Debug\TestClasses.pdb

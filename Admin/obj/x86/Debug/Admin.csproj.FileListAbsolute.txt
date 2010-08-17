@@ -1,0 +1,9 @@
+G:\VSProjects\Citrine\Admin\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\VSProjects\Citrine\Admin\bin\Debug\Admin.exe
+G:\VSProjects\Citrine\Admin\bin\Debug\Admin.pdb
+G:\VSProjects\Citrine\Admin\obj\x86\Debug\Admin.exe
+G:\VSProjects\Citrine\Admin\obj\x86\Debug\Admin.pdb
+G:\VSProjects\Citrine\Admin\obj\x86\Debug\Admin.ChoiceForm.resources
+G:\VSProjects\Citrine\Admin\obj\x86\Debug\Admin.csproj.GenerateResource.Cache
+G:\VSProjects\Citrine\Admin\bin\Debug\TestClasses.dll
+G:\VSProjects\Citrine\Admin\bin\Debug\TestClasses.pdb
